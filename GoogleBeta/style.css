@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/* image centered */
+img {
+    display: block; 
+    margin: auto;
+}
+
+.container {
+    width: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.search-bar {
+    width: auto;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+.content {
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+
+.card {
+    width: 33.1%; /* 33% - 10(padding) - 3(margin-right) */
+    height: 75px;
+    float: left;
+    margin-right: 0.2%;
+}
+
+.footer {
+    text-align: center; 
+    padding: 2%
+}
+
+.clear {
+    clear: both;
+}
