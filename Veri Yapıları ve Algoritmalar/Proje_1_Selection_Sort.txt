@@ -12,7 +12,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız. -> n+(n-1)+(n-2)+...+1 = n.(n+1)/2 = n^2+n/2 = O(n^2)
 
-Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız. -> Average Case
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız. ->Average Case
 
 Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
@@ -20,6 +20,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
+		   [7,3,5,8,2,9,4,15,6]
 	1.Aşama -> [2,3,5,8,7,9,4,15,6]
 	2.Aşama -> [2,3,5,8,7,9,4,15,6]
 	3.Aşama -> [2,3,4,8,7,9,5,15,6]
